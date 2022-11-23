@@ -1,0 +1,1 @@
+//14.WAP to return an array of structure using pointer.

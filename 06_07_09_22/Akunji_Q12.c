@@ -1,0 +1,1 @@
+/*Q.12.WAP to reverse the sequence elements in a double linked list. .*/

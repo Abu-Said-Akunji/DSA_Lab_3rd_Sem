@@ -1,0 +1,1 @@
+/*Q8. To find the common ancestor and print the paths.*/
